@@ -5,8 +5,8 @@ from threading import Thread
 import threading
 
 
-SERVER = "10.8.0.6"
-PORT = 1488
+SERVER = ""
+PORT = 
 
 
 client = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
