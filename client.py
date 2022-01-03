@@ -6,7 +6,7 @@ import threading
 
 
 SERVER = ""
-PORT = 
+PORT = ----
 
 
 client = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
